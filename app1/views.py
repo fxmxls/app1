@@ -5,3 +5,8 @@ from django.shortcuts import render
 def index(request):
     print ("小许是个大弱智")
     return HttpResponse()
+
+def index2(request):
+
+    print ("燕恩光真TM的帅！！！")
+    return HttpResponse()
