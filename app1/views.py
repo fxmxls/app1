@@ -19,3 +19,8 @@ def index3(request):
     print('提交冲突')
 
     return HttpResponse()
+
+def incexzbw(requext):
+    print("zbw")
+    return HttpResponse()
+
