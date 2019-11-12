@@ -18,3 +18,6 @@ def index3(request):
     print("这是第三个index")
 
     return HttpResponse()
+def incexzbw(requext):
+    print("zbw")
+    return HttpResponse()
