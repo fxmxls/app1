@@ -18,3 +18,7 @@ def index3(request):
     print("这是第三个index")
 
     return HttpResponse()
+
+def index4(request):
+    print('这是杨的分支里')
+    return HttpResponse()
