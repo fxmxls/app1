@@ -16,5 +16,6 @@ def index2(request):
 
 def index3(request):
     print("这是第三个index")
+    print('提交冲突')
 
     return HttpResponse()
